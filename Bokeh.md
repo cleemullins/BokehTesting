@@ -1,5 +1,5 @@
-# Boken Testing Across Nikon's Portrait Lenses
-I shoot lots of pictures of people, and I'm always trying to figure out what lens to use for various subjets. Most of my people images are kids doing sports, often indoors, and often in low-light gyms. Because of that, I've accumulated a number of Nikon lenses that are great for shooting people and fast action. Due to the COVID-19 pandemic, I'm home all day and having some fun with my camera to fill in dull moments. 
+# Bokeh Testing Across Nikon's Portrait Lenses
+I shoot lots of pictures of people, and I'm always trying to figure out what lens to use for various subjects. Most of my people images are kids doing sports, often indoors, and often in low-light gyms. Because of that, I've accumulated a number of Nikon lenses that are great for shooting people and fast action. Due to the COVID-19 pandemic, I'm home all day and having some fun with my camera to fill in dull moments. 
 
 Comparing different lenses and see how they stacked up seemed like it would be fun. For this test, I've tested the following lenses against each other to see which ones I prefer in terms of (mostly) bokeh and subject isolation. 
 
@@ -13,7 +13,7 @@ Comparing different lenses and see how they stacked up seemed like it would be f
 
 To compare everything, I picked a standard "Field of View" (50mm at 5 feet) and used the [Equivalent Lens Calculator](https://www.pointsinfocus.com/tools/depth-of-field-and-equivalent-lens-calculator) to build the following chart:
 
-| Lens  | Focal Length  | Aperature | Distance | Diagional FOV | Depth of Field |
+| Lens  | Focal Length  | Aperture | Distance | Diagonal FOV | Depth of Field |
 |---|---|---|---|---|---|
 | Nikkor 50mm F/1.4D   | 50mm  | F/1.4 | 5' | 4'3.9"  | 2.87" |
 | Nikkor 85mm F/1.4G  | 85mm  | F/1.4  | 8'6" | 4'3.9"  | 2.87"  |
@@ -35,8 +35,8 @@ My Model, as you can see, is Appa. Unlike my kids, he sat patiently without movi
 The camera used is a Nikon D5, which is a full-frame camera. I shoot with this for the  low-light / high-ISO capabilities and the stunning focus system.
 
  Settings are:
-1. Aperature mode, set to the fastest setting of the lens.
-2. ISO 100. Shutter speed floated to wheatever the camera decided was correct.
+1. Aperture mode, set to the fastest setting of the lens.
+2. ISO 100. Shutter speed floated to whatever the camera decided was correct.
 3. Images are all shot in RAW, then bulk auto-processed through Lightroom hitting "Auto".
 4. Lightroom Lens Corrections were NOT applied. 
 
@@ -134,4 +134,4 @@ If you've never had the chance to shoot with the Nikon Exotics, they are a treat
 # Summary
 This was a fun exercise to shoot. Going through the rigor of lens equilivancy across focal lengths, and methodically shooting them, was time well spent. 
 
-Looking at each of the images, I wish I had been a bit more carful but... it was fun anway. :) 
+Looking at each of the images, I wish I had been a bit more carful but... it was fun anyway. :) 
