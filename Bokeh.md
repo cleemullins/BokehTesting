@@ -1,5 +1,5 @@
 # Boken Testing Across Nikon's Portrait Lenses
-I shoot lots of pictures of people, and I'm always trying to figure out what lens to use for various subjets. Most of my people images are kids doing sports, often indoors, and often in low-light gyms. Because of that, I'm accumulated a number of Nikon lenses that are great for shooting people and fast action. Due to the COVID-19 pandemic, I'm home all day and having some fun with my camera to fill in dull moments. 
+I shoot lots of pictures of people, and I'm always trying to figure out what lens to use for various subjets. Most of my people images are kids doing sports, often indoors, and often in low-light gyms. Because of that, I've accumulated a number of Nikon lenses that are great for shooting people and fast action. Due to the COVID-19 pandemic, I'm home all day and having some fun with my camera to fill in dull moments. 
 
 Comparing different lenses and see how they stacked up seemed like it would be fun. For this test, I've tested the following lenses against each other to see which ones I prefer in terms of (mostly) bokeh and subject isolation. 
 
